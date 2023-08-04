@@ -1,0 +1,17 @@
+C:\Users\charl\source\repos\TaskMaker\bin\Debug\net7.0\TaskMaker.exe
+C:\Users\charl\source\repos\TaskMaker\bin\Debug\net7.0\TaskMaker.deps.json
+C:\Users\charl\source\repos\TaskMaker\bin\Debug\net7.0\TaskMaker.runtimeconfig.json
+C:\Users\charl\source\repos\TaskMaker\bin\Debug\net7.0\TaskMaker.dll
+C:\Users\charl\source\repos\TaskMaker\bin\Debug\net7.0\TaskMaker.pdb
+C:\Users\charl\source\repos\TaskMaker\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\charl\source\repos\TaskMaker\obj\Debug\net7.0\TaskMaker.csproj.AssemblyReference.cache
+C:\Users\charl\source\repos\TaskMaker\obj\Debug\net7.0\TaskMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\source\repos\TaskMaker\obj\Debug\net7.0\TaskMaker.AssemblyInfoInputs.cache
+C:\Users\charl\source\repos\TaskMaker\obj\Debug\net7.0\TaskMaker.AssemblyInfo.cs
+C:\Users\charl\source\repos\TaskMaker\obj\Debug\net7.0\TaskMaker.csproj.CoreCompileInputs.cache
+C:\Users\charl\source\repos\TaskMaker\obj\Debug\net7.0\TaskMaker.csproj.CopyComplete
+C:\Users\charl\source\repos\TaskMaker\obj\Debug\net7.0\TaskMaker.dll
+C:\Users\charl\source\repos\TaskMaker\obj\Debug\net7.0\refint\TaskMaker.dll
+C:\Users\charl\source\repos\TaskMaker\obj\Debug\net7.0\TaskMaker.pdb
+C:\Users\charl\source\repos\TaskMaker\obj\Debug\net7.0\TaskMaker.genruntimeconfig.cache
+C:\Users\charl\source\repos\TaskMaker\obj\Debug\net7.0\ref\TaskMaker.dll

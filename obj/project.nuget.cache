@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IQdQvPNXZv5JwbkX0406rhaHXpVy9mb2ss0ohtieZeT3Ft+EeP5m7SPnVQVSPkCbUk2CFCTQP5Hv0ZO0GZOjtQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\charl\\source\\repos\\TaskMaker\\TaskMaker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\charl\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
